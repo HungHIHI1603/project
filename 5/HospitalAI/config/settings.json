@@ -1,0 +1,22 @@
+{
+    "camera": {
+        "source": 0
+    },
+    "fall_detection": {
+        "enabled": true,
+        "confidence": 0.5,
+        "alert_after_seconds": 5
+    },
+    "wake_up_monitor": {
+        "enabled": true,
+        "default_time": "05:30",
+        "grace_period_minutes": 10
+    },
+    "toilet_monitor": {
+        "enabled": true,
+        "alert_after_minutes": 60
+    },
+    "alerts": {
+        "sound_enabled": true
+    }
+}
